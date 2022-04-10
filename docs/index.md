@@ -1,7 +1,12 @@
 # Skywoman
-A platform for communities to develop their food sovereignty.
+> _PROMPT_: What is Skywoman?
 
 ## Pods
+> _PROMPT_: What are pods?
+
+Here is an example of the info we might include for each pod,
+as defined in `./pods.yml`:
+
 <script setup>
   import pods from './pods.yml'
 </script>
@@ -18,3 +23,11 @@ A platform for communities to develop their food sovereignty.
     </li>
   </ul>
 </div>
+
+## Regions
+> _PROMPT_: Something about regions?
+
+## Events
+> _PROMPT_: How are events scheduled? Who to contact?
+
+<!-- TODO: maybe embed a google calendar here -->
