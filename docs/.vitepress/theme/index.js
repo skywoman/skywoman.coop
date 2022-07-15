@@ -1,7 +1,5 @@
-import Layout from './Layout.vue';
+import DefaultTheme from 'vitepress/theme'
 
-const Theme = {
-  Layout,
-};
-
-export default Theme;
+export default {
+  ...DefaultTheme,
+}
