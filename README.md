@@ -1,5 +1,5 @@
 # skywoman.coop
-A first draft for the [proposed Skywoman website](https://github.com/somethingelse-skywoman/about/discussions/1).
+A first draft for the [proposed Skywoman website](https://github.com/skywoman/about/discussions/1).
 
 ## Quick start
 You will need [Node.js](https://nodejs.org) and [git](https://git-scm.com/) installed as a prerequisite.
@@ -7,7 +7,7 @@ You will need [Node.js](https://nodejs.org) and [git](https://git-scm.com/) inst
 In your terminal, clone this repository and `cd` into the repo:
 
 ```sh
-git clone https://github.com/somethingelse-skywoman/skywoman.coop.git
+git clone https://github.com/skywoman/skywoman.coop.git
 cd skywoman.coop
 ```
 
